@@ -15,6 +15,7 @@ export default function About() {
     >
       <section className="  w-full text-white relative">
         <p className="text-center pt-8 text-4xl">About Me</p>
+
         <div className=" flex justify-center w-full pt-32 sm:pt-12 sm:flex-col ">
           <section className="w-2/5 sm:w-11/12 sm:my-0 sm:mx-auto">
             <h4 className="text-xl opacity-80 sm-text-center ">
