@@ -15,7 +15,11 @@ export default function About() {
     >
       <section className="  w-full text-white relative">
         <p className="text-center pt-8 text-4xl">About Me</p>
+<<<<<<< HEAD
         <div className=" flex justify-center w-full pt-32 sm:pt-12 sm:flex-col ">
+=======
+        <div className=" flex justify-center w-full pt-40 sm:pt-12 sm:flex-col ">
+>>>>>>> b1862bdeb50076239fd73db203dfc25cb3529539
           <section className="w-2/5 sm:w-11/12 sm:my-0 sm:mx-auto">
             <h4 className="text-xl opacity-80 sm-text-center ">
               A self-taught Frontend developer, focused on writing clean,
