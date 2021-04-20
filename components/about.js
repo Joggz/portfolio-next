@@ -47,7 +47,7 @@ export default function About() {
             </div>
           </section>
         </div>
-        <section className="flex flex-col text-center pt-20  ">
+        <section className="flex flex-col text-center pt-10  ">
           <div>
             <h5 className="text-4xl">Got an Idea ?</h5>
             <h6 className="text-3xl">or Want to get in touch</h6>
