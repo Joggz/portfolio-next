@@ -1,19 +1,24 @@
+
 import Head from 'next/head'
+import Header from "../components/Header";
+import About from "../components/about";
 
 
 export default function Home() {
+  
   return (
-    <div className="flex justify-center items-center w-screen h-screen">
+    <div className="">
       <Head>
         <title>portfolio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main >
-        <h1>
-          Welcome to <a href="">My Portfolo</a>
-        </h1>
+      <main className="">
+        <Header />     
+        <About />
       </main>
     </div>
   )
 }
+
+
